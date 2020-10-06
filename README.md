@@ -17,5 +17,5 @@
 
 - It can be every kind of question regarding React.
 - It can be even HTML/CSS question, why not, we're front-end developers.
-- It can be every issue regarding Typescript or Flowtype.
+- It can be every issue regarding Typescript or Flow.
 - Also, it can be even Rollup and Webpack.
