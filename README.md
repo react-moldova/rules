@@ -5,7 +5,6 @@
 - Do not spam.
 - If you are going to post code, please make sure it's formatted by [prettier](https://prettier.io/).
 - Be respectful.
-- Animated gifs are fun, and often entertaining and we all (mostly) enjoy them... at first. People like to enjoy the gif once, maybe twice, but over and over until the conversation pushes it off screen is annoying.
 
 ## ii. Etiquette
 
